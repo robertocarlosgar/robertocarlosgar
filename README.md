@@ -1,5 +1,7 @@
 ### Hi there, I'm Roberto! 👋
 
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 <!--
 **robertocarlosgar/robertocarlosgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
