@@ -1,11 +1,5 @@
-### Hi there, I'm Roberto! 👋
-
-🌱 I’m currently learning SwiftUI 
-
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
 <h1 align="center">Hi 👋, I'm Roberto</h1>
+🌱 I’m currently learning SwiftUI 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
