@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning SwiftUI
 
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--
 **robertocarlosgar/robertocarlosgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
